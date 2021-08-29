@@ -1,4 +1,5 @@
 # send-me-stuff
-For people to quickly send me large files without using email/drive/etc. (React + AWS S3/SES)
+## https://vk-sendmestuff.netlify.app/
+For people to quickly send me large files without using email/Google Drive/etc. (React + AWS S3/SES)
 
 ![](sendmestuff.png)
